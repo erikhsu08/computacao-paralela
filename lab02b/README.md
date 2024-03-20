@@ -1,14 +1,14 @@
 ## Especificações dos processadores utilizados:
 
-execução 1 processador : i3-7100 
+Execução 1 processador : i3-7100 
 
-execução 2 processadores : i3-7100 
+Execução 2 processadores : i3-7100 
 
-execução 4 processadores : i3-7100 
+Execução 4 processadores : i3-7100 
 
-execução 6 processadores : i7-12700H
+Execução 6 processadores : i7-12700H
 
-execução 8 processadores : Apple M1 
+Execução 8 processadores : Apple M1 
 
 
 ## 1. Qual o tempo de execução serial e paralelo para 1, 2, 4, 6 e 8 processadores? Desenhe um gráfico contendo todos os tempos de execução.
