@@ -59,6 +59,9 @@ speedups:
 
 8 processadores: 0,009 / 0,015 = 0,6
 
+Gráfico:  
+![Imagem do WhatsApp de 2024-03-20 à(s) 00 51 16_541f12db](https://github.com/erikhsu08/computacao-paralela/assets/111096802/decc2393-13a0-4344-afb3-7521f5a6fa9d)
+
 ## 3. Como você acha que poderia melhorar o seu algoritmo para obter maior benefício com o paralelismo? Para provar seu ponto, refaça a solução com essa abordagem e construa um novo gráfico de speedup para 1, 2, 4, 6 e 8 processadores.
 
 Se houvesse algum jeito de alocar as threads divididas igualmente entre cada um dos processadores provavelmente conseguimos extrair um maior benefício do paralelismo, talvez criando apenas um número de threads correspondente ao número de processadores (por exemplo 8 threads para 8 processadores com cada processador responsável por 1 thread equivalente a ⅛ das linhas da matriz). Não conseguimos concretizar essa nova abordagem.
