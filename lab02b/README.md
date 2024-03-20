@@ -5,3 +5,6 @@
 ## 3. Como você acha que poderia melhorar o seu algoritmo para obter maior benefício com o paralelismo? Para provar seu ponto, refaça a solução com essa abordagem e construa um novo gráfico de speedup para 1, 2, 4, 6 e 8 processadores.
 
 Se houvesse algum jeito de alocar as threads divididas igualmente entre cada um dos processadores provavelmente conseguimos extrair um maior benefício do paralelismo, talvez criando apenas um número de threads correspondente ao número de processadores (por exemplo 8 threads para 8 processadores com cada processador responsável por 1 thread equivalente a ⅛ das linhas da matriz). Não conseguimos concretizar essa nova abordagem.
+
+
+Print de htop 8 núcleos:![image](https://github.com/erikhsu08/computacao-paralela/assets/83241823/383bc160-0ea7-437c-9b67-a7211a9fe6a2)
