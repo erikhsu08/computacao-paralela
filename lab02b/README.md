@@ -8,7 +8,7 @@ Execução 4 processadores: i3-7100
 
 Execução 6 processadores: i7-12700H
 
-Execução 8 processadores: Apple M1 
+Execução 8 processadores: Apple M1 (resultados distintos dos outros processadores)
 
 
 ## 1. Qual o tempo de execução serial e paralelo para 1, 2, 4, 6 e 8 processadores? Desenhe um gráfico contendo todos os tempos de execução.
@@ -33,6 +33,18 @@ Grafico com os tempos de execução:
 
 
 ## 2. Qual o speedup para 1, 2, 4, 6 e 8 processadores? Desenhe um gráfico mostrando os diferentes valores de speedup.
+
+speedups:
+
+1 processador: 1
+
+2 processadores: 0,009 / 0,013 = 0,6923076923
+
+4 processadores: 0,009 / 0,047 = 0,1914893617
+
+6 processadores: 0,009 / 0,189 = 0,04761904761
+
+8 processadores: 0,009 / 0,015 = 0,6
 
 ## 3. Como você acha que poderia melhorar o seu algoritmo para obter maior benefício com o paralelismo? Para provar seu ponto, refaça a solução com essa abordagem e construa um novo gráfico de speedup para 1, 2, 4, 6 e 8 processadores.
 
