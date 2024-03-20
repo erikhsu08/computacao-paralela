@@ -18,16 +18,20 @@ Tempos de execução:
 serial: 0,003s
 
 1 processador: 0,009s
+![image7](https://github.com/erikhsu08/computacao-paralela/assets/111096802/4eceb1e7-39b1-4f24-b980-c18654430293)
 
 2 processadores: 0,013s
+![image3](https://github.com/erikhsu08/computacao-paralela/assets/111096802/b098109c-4e1a-473c-a09a-66139ce35e5d)
 
 4 processadores: 0,047s
+![image4](https://github.com/erikhsu08/computacao-paralela/assets/111096802/73977fec-4db1-4a0b-8756-a9407489a7e5)
 
 6 processadores: 0,189s
 
 ![image](https://github.com/erikhsu08/computacao-paralela/assets/83241823/a0852301-3319-4f6f-a026-430594850258)
 
 8 processadores: 0,015s
+<img width="392" alt="image6" src="https://github.com/erikhsu08/computacao-paralela/assets/111096802/0bbb9f4f-1b22-4ab3-8e18-7ef21d9789be">
 
 Grafico com os tempos de execução:
 
