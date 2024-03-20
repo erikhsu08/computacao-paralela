@@ -1,17 +1,34 @@
 ## Especificações dos processadores utilizados:
 
-Execução 1 processador : i3-7100 
+Execução 1 processador: i3-7100 
 
-Execução 2 processadores : i3-7100 
+Execução 2 processadores: i3-7100 
 
-Execução 4 processadores : i3-7100 
+Execução 4 processadores: i3-7100 
 
-Execução 6 processadores : i7-12700H
+Execução 6 processadores: i7-12700H
 
-Execução 8 processadores : Apple M1 
+Execução 8 processadores: Apple M1 
 
 
 ## 1. Qual o tempo de execução serial e paralelo para 1, 2, 4, 6 e 8 processadores? Desenhe um gráfico contendo todos os tempos de execução.
+
+Tempos de execução:
+
+serial: 0,003s
+
+1 processador: 0,009s
+
+2 processadores: 0,013s
+
+4 processadores: 0,047s
+
+6 processadores: 0,189s
+
+8 processadores: 0,015s
+
+![image](https://github.com/erikhsu08/computacao-paralela/assets/83241823/7a0bd738-d2ad-4710-9662-a73ba83ff80b)
+
 
 ## 2. Qual o speedup para 1, 2, 4, 6 e 8 processadores? Desenhe um gráfico mostrando os diferentes valores de speedup.
 
