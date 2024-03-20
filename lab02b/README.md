@@ -9,4 +9,6 @@ Se houvesse algum jeito de alocar as threads divididas igualmente entre cada um 
 
 
 
-## Print de uso dos 8 núcleos (htop):![image](https://github.com/erikhsu08/computacao-paralela/assets/83241823/383bc160-0ea7-437c-9b67-a7211a9fe6a2)
+## Print de uso dos 8 núcleos (htop):
+
+![image](https://github.com/erikhsu08/computacao-paralela/assets/83241823/383bc160-0ea7-437c-9b67-a7211a9fe6a2)
