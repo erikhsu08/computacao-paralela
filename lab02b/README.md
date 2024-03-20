@@ -27,6 +27,8 @@ serial: 0,003s
 
 8 processadores: 0,015s
 
+Grafico com os tempos de execução:
+
 ![image](https://github.com/erikhsu08/computacao-paralela/assets/83241823/7a0bd738-d2ad-4710-9662-a73ba83ff80b)
 
 
