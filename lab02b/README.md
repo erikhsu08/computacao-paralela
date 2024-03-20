@@ -1,8 +1,13 @@
 ## Especificações dos processadores utilizados:
+
 execução 1 processador : i3-7100 
+
 execução 2 processadores : i3-7100 
+
 execução 4 processadores : i3-7100 
+
 execução 6 processadores : i7-12700H
+
 execução 8 processadores : Apple M1 
 
 
